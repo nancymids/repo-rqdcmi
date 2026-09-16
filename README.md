@@ -1,8 +1,10 @@
 2026/09/16 14:39:04
 
-<!-- notify 1/2 · 0EFw3AGM -->
-## Notification 1/2
-Round: Round 1
-To: posborn5450@yahoo.com, mhmarymorgan@gmail.com
-At: 2026-09-16 14:39:12
-Id: 0EFw3AGM
+<!-- after round1 -->
+
+<!-- notify 2/2 -->
+## Notification 2/2
+Round: Round 2
+To: pzandvliet@aol.com, rramzee108@yahoo.com
+At: 2026-09-16 14:39:21
+Id: 8O5B8x3Y
